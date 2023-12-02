@@ -10,3 +10,4 @@ On the provided dataset ('Online News Popularity Data Set') the tasks to solve a
 - Classification with k-Nearest Neighbors algorithm
 - Regression with Neural Networks
 - Classification with Neural Networks
+At the end of the notebook is attached a final report.
